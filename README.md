@@ -105,3 +105,13 @@ memanggilnya dengan tiga fungsi di Javascript :
     * Integer,Adalah tipe data yang berisi number/angka
     * Float,Adalah tipe data yang berisi bilangan desimal atau pecahan
     * Boolean,Adalah tipe data yang memiliki dua nilai,yaitu true/false.
+### Salsa Bila Aprilia
+Bahasa pemrograman javascript pertama kali di temukan pada tahun 1995 oleh seorang karyawan yang bernama Brendan Eich.Javascript pertama kali di beri nama Mocha yang kemudian di ubah menjadi LiveScript dan akhirnya di ubah lagi menjadi JavaScript karena kebutuhan marketing.
+Awalnya,JavaScript hanya berfokus pada penggunaan website.Namun seiring berjalannya waktu,javascript berperan penting juga di server,game,dekstop,IoT dan sebagainya.
+JavaScript merupakan bahasa yang paling populer di dunia.Karena pada tahun 2021, javascript menjadi bahasa pemrograman yang paling banyak digunakan.
+JavaScript adalah bahasa pemrograman yang berfokus di web language dan JavaScript merupakan bahasa yang mudah untuk di pelajari.
+Di dalam bahasa pemrograman javascript,ada yang bernama variabel dan tipe data.
+Variabel adalah sebuah nama yang mewakili sebuah nilai.Kalau di ibaratkan,variabel adalah tempat untuk menampung sebuah nilai.
+Cara membuat variabel yang umum di gunakan adalah menggunakan var,namun bisa juga menggunakan let dan const.
+Tipe data adalah jenis jenis data yang di simpan di dalam variabel.
+Ada tipe data string (teks),integer/angka (bilangan bulat),Float (bilangan pecahan) dan boolean (yang memiliki dua nilai True & False).
