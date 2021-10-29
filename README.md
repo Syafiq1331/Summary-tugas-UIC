@@ -59,8 +59,49 @@ memanggilnya dengan tiga fungsi di Javascript :
     - Fungsi console.log() untuk menampilkan output ke console Javascript
     - Fungsi document.write() untuk menampilkan output ke document HTML
     - Fungsi alert() untuk menampilkan output ke jendela dialog
-* Tipe data dalam JavaScript ⤵️
-   -String => tipe data yg menampung nilai teks atau kalimat
-   -integer => tipe data yg menampung nilai angka (bilangan bulat)
-   -float => tipe data yg menampung nilai angka (bilangan pecahan)
-   -boolean => tipe data yang hanya mempunyai dua nilai, yakni benar (True) atau salah (False)
+* Tipe data dalam JavaScript ⤵️    
+    - String => tipe data yg menampung nilai teks atau kalimat
+    - integer => tipe data yg menampung nilai angka (bilangan bulat)
+    - float => tipe data yg menampung nilai angka (bilangan pecahan)
+    - boolean => tipe data yang hanya mempunyai dua nilai, yakni benar (True) atau salah (False)
+
+### Rr. Risa Siptiani
+Pada tahun 1995, seorang karyawan yang bernama Brendan Eich  dari perusahaan
+Netscape di minta untuk membuat bahasa scripting seperti Java
+namun dapat diterapkan pada browser, ia akhirnya mendesain
+bahasa pemporgraman baru yang inspirasi fitur-fiturnya ia dapatkan
+dari Java, Scheme, dan self.
+Ia berhasil      
+membuat bahasa pemprograman tersebut selama 10 hari dan ia beri
+nama Mocha programming languange. Karena beberapa alasan
+nama Mocha akhirnya beralih nama menjadi Livescript. 
+Setelah itu Netscape akhirnya bekerja sama dengan Oracle
+karena Oracle memiliki lisensi Java pada saat itu, kerja sama
+tersebut membuat nama bahasa pemprograman tersebut berubah
+menjadi JavaScript yang asalnya LiveScript menjadi Javascript, pada saat itu Java merupakan bahasa
+pemprograman yang powerfull jadi NetScape memanfaatkan hal ini dan itu berhasil membuat nama
+JavaScript dikenal dunia. JavaScript adalah bahasa paling populer di dunia,Javascript adalah bahasa pemprograman yang berfokus di web 
+language,dan JavaScript adalah bahasa yang mudah di pahami.
+
+* PRAKTEK
+Menulis di tag <script>
+Dengan memasukan perintah
+Console.log
+Document.write
+Alert
+
+* MENGENAL APA ITU VARIABEL
+Jadi variabel adalah sebuah nama yang mewakili sebuah nilai. Istilah sederhanya ibarat sebuah piring yang diisi oleh buah,piring berfungsi sebagai variabel dan buah berfungsi sebagai nilai.
+
+* MENAMPILKAN VARIABEL
+Untuk bisa menampilkan sebuah nilai dari sebuah variabel kita bisa 
+memanggilnya dengan tiga fungsi di Javascript :
+    • Fungsi console.log() untuk menampilkan output ke console Javascript
+    • Fungsi document.write() untuk menampilkan output ke document HTML
+    • Fungsi alert() untuk menampilkan output ke jendela dialog
+
+* ADA 4 TIPE DATA JAVASCRIPT
+    * String, Adalah tipe data yang berisi seperti huruf,teks,dan caharacter
+    * Integer,Adalah tipe data yang berisi number/angka
+    * Float,Adalah tipe data yang berisi bilangan desimal atau pecahan
+    * Boolean,Adalah tipe data yang memiliki dua nilai,yaitu true/false.
