@@ -1,8 +1,8 @@
 # Summary-tugas-UIC
 Di repository ini kalian boleh clone repo ini lalu pull request buat menyelesaikan tugasnya
 
-## Rangkuman Materi Javascript :      
-### RifaldiX__TKJ_2
+## Rangkuman Materi Javascript : 27 oktober -3 November 
+### RifaldiX TKJ 2
 * Brandon Eich adalah orang menciptakan bahasa pemrograman javascript.
 * Javascript adalah bahasa pemrograman paling populer didunia.
 * Javascript dibuat pada tahun 1995 oleh Brandon Eich dan dia hanya memerlukan 10 hari untuk membuatnya.
