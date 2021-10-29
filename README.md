@@ -2,7 +2,7 @@
 Di repository ini kalian boleh clone repo ini lalu pull request buat menyelesaikan tugasnya
 
 ## Rangkuman Materi Javascript : 
-    **Rifaldi X TKJ 2**
+    **Rifaldi** **X** **TKJ** **2**
 0. Brandon Eich adalah orang menciptakan bahasa pemrograman javascript.
 1. Javascript adalah bahasa pemrograman paling populer didunia.
 2. Javascript dibuat pada tahun 1995 oleh Brandon Eich dan dia hanya memerlukan 10 hari untuk membuatnya.
